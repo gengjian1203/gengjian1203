@@ -2,7 +2,7 @@
 
 [![Blog](https://img.shields.io/badge/Blog-v1.0.1-blue.svg)](https://gengjian1203.github.io/)
 
-- 🐒 一个前端工程师
-- 💡 喜欢折腾新技术
+- 🐒 一枚前端程序猿
+- 💡 技术可以改变世界
 - 💻 少哔哔，晒代码
-- 🎵 散步可以有效解决bug
+- 🎵 音乐可以驱除bug
