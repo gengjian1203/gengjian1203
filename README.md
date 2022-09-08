@@ -3,6 +3,6 @@
 [![Blog](https://img.shields.io/badge/Blog-v1.0.1-blue.svg)](https://gengjian1203.github.io/)
 
 - 🐒 一枚前端程序猿
-- 💡 让技术改变世界
-- 🎵 用音乐感化bug
-- 💻 少哔哔，晒代码
+- 🍼 刷奶瓶艺术大师
+- 💡 白日做梦幻想家
+- 💻 支持用代码交流
