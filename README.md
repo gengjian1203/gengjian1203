@@ -6,3 +6,13 @@
 - 🍼 刷奶瓶艺术大师
 - 💡 白日做梦幻想家
 - 💻 支持用代码交流
+
+
+#### Medals
+
+<img align="left" src="https://github-profile-trophy.vercel.app/?username=gengjian1203&theme=onedark&column=-1&margin-w=15" />  
+  
+    
+#### Activities
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gengjian1203&theme=merko&custom_title=Hugh%20Activities&hide_border=true&point=FFFFFF&days=50)]([https://github.com/gengjian1203](https://github.com/gengjian1203))
