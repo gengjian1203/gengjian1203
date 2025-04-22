@@ -78,71 +78,15 @@
 ###
 
 <div align="center">
-  <div class="stats-container">
-    <div class="stats-row">
-      <img class="stats-img-languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=gengjian1203&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph" />
-      <img class="stats-img-stats" src="https://github-readme-stats.vercel.app/api?username=gengjian1203&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="stats graph" />
-    </div>
-    <div class="stats-row">
-      <img class="stats-img-streak" src="https://streak-stats.demolab.com?user=gengjian1203&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="streak graph" />
-      <img class="stats-img-activity-graph" src="https://github-readme-activity-graph.vercel.app/graph?username=gengjian1203&radius=16&theme=react&area=true&order=5" alt="activity-graph graph" />
-    </div>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px; margin-bottom: 20px;">
+    <img style="flex: 25 0 auto; width: 0;" src="https://github-readme-stats.vercel.app/api/top-langs?username=gengjian1203&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph" />
+    <img style="flex: 31 0 auto; width: 0;" src="https://github-readme-stats.vercel.app/api?username=gengjian1203&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="stats graph" />
+  </div>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px; margin-bottom: 20px;">
+    <img style="flex: 25 0 auto; width: 0;" src="https://streak-stats.demolab.com?user=gengjian1203&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="streak graph" />
+    <img style="flex: 28 0 auto; width: 0;" src="https://github-readme-activity-graph.vercel.app/graph?username=gengjian1203&radius=16&theme=react&area=true&order=5" alt="activity-graph graph" />
   </div>
 </div>
-
-<style>
-.stats-container {
-  width: 100%;
-  max-width: 1200px;
-  margin: 0 auto;
-}
-
-.stats-row {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
-  gap: 20px;
-  margin-bottom: 20px;
-}
-
-.stats-row img {
-  width: 0;
-  max-width: 100%;
-  height: auto;
-}
-
-.stats-img-languages {
-  flex: 25 25 auto;
-}
-
-.stats-img-stats {
-  flex: 31 31 auto;
-}
-
-.stats-img-streak {
-  flex: 25 25 auto;
-}
-
-.stats-img-activity-graph {
-  flex: 28 28 auto;
-}
-
-@media (max-width: 768px) {
-  .stats-row {
-    flex-direction: column;
-  }
-  
-  .stats-row img,
-  .stats-img-activity-graph
-  .stats-img-streak
-  .stats-img-stats
-  .stats-img-languages {
-    width: 100%;
-    margin-bottom: 20px;
-  }
-}
-</style>
 
 ###
 
