@@ -18,7 +18,10 @@
 
 ###
 
-<p align="left">- 🐒 一枚前端程序猿<br>- 🍼 刷奶瓶艺术大师<br>- 💡 白日做梦幻想家<br>- 💻 支持用代码交流</p>
+- 🐒 一枚前端程序猿
+- 🍼 刷奶瓶艺术大师
+- 💡 白日做梦幻想家
+- 💻 支持用代码交流
 
 ###
 
@@ -26,7 +29,7 @@
 
 ###
 
-<div align="left">
+<h3 align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -59,7 +62,7 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
 
@@ -70,21 +73,76 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats :</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gengjian1203&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gengjian1203&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=gengjian1203&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <div class="stats-container">
+    <div class="stats-row">
+      <img class="stats-img-languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=gengjian1203&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph" />
+      <img class="stats-img-stats" src="https://github-readme-stats.vercel.app/api?username=gengjian1203&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="stats graph" />
+    </div>
+    <div class="stats-row">
+      <img class="stats-img-streak" src="https://streak-stats.demolab.com?user=gengjian1203&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="streak graph" />
+      <img class="stats-img-activity-graph" src="https://github-readme-activity-graph.vercel.app/graph?username=gengjian1203&radius=16&theme=react&area=true&order=5" alt="activity-graph graph" />
+    </div>
+  </div>
 </div>
 
-###
+<style>
+.stats-container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gengjian1203&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+.stats-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+.stats-row img {
+  width: 0;
+  max-width: 100%;
+  height: auto;
+}
+
+.stats-img-languages {
+  flex: 25 25 auto;
+}
+
+.stats-img-stats {
+  flex: 31 31 auto;
+}
+
+.stats-img-streak {
+  flex: 25 25 auto;
+}
+
+.stats-img-activity-graph {
+  flex: 28 28 auto;
+}
+
+@media (max-width: 768px) {
+  .stats-row {
+    flex-direction: column;
+  }
+  
+  .stats-row img,
+  .stats-img-activity-graph
+  .stats-img-streak
+  .stats-img-stats
+  .stats-img-languages {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+}
+</style>
 
 ###
 
