@@ -6,10 +6,12 @@
   <a href="https://www.orz2.online/projects/gengjian1203/" target="_blank">
     <img src="https://img.shields.io/badge/Blog-v2.0.0-blue.svg" alt="blog logo"  />
   </a>
-  <a href="mailto:agjgj187076081@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo"  />
+  <a href="https://orz2.online/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Orz2.online-green.svg" alt="website logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" alt="slack logo"  />
+  <a href="mailto:agjgj187076081@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
