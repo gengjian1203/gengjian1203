@@ -14,13 +14,22 @@
 
 ### 👩‍💻 About Me
 
-- 👨‍💻 A passionate frontend developer
-
-- 📝 I regularly write articles on [Blog](https://orz2.online/projects/gengjian1203/)
-
-- 👯 I'm looking to collaborate on [Xshuliner](https://orz2.online/)
-
-- 📫 How to reach me **gengjian1203@foxmail.com**
+<table border="0">
+  <tr>
+    <td width="50%" style="padding-right: 20px;">
+      <ul>
+        <li style="margin: 5px 0;">👨‍💻 A passionate frontend developer</li>
+        <li style="margin: 5px 0;">📝 I regularly write articles on <a href="https://orz2.online/projects/gengjian1203/">Blog</a></li>
+      </ul>
+    </td>
+    <td width="50%" style="padding-left: 20px;">
+      <ul style="padding: 0; margin: 0;">
+        <li style="margin: 5px 0;">👯 I'm looking to collaborate on <a href="https://orz2.online/">Xshuliner</a></li>
+        <li style="margin: 5px 0;">📫 How to reach me <strong>gengjian1203@foxmail.com</strong></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ### 💡 Skills & Tools
 
