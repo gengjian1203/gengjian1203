@@ -30,7 +30,11 @@
 
 ###
 
-<h3 align="left">💻 Frontend Development</h3>
+<h3 align="left">💡 Skills & Tools</h3>
+
+###
+
+<h5 align="left">💻 Frontend Development</h5>
 
 ###
 
@@ -55,7 +59,7 @@
 
 ###
 
-<h3 align="left">⚙️ Backend Development</h3>
+<h5 align="left">⚙️ Backend Development</h5>
 
 ###
 
@@ -63,14 +67,11 @@
   <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="nodejs" title="nodejs" />
   <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/express/express-original-wordmark.svg" width="40" alt="express" title="express" />
   <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="mongodb" title="mongodb"  />
-  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/eslint/eslint-line-wordmark.svg" width="40" alt="eslint" title="eslint"  />
-  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" alt="tailwindcss" title="tailwindcss"  />
-  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/npm/npm-original-wordmark.svg" width="40" alt="npm" title="npm"  />
 </div>
 
 ###
 
-<h3 align="left">🚀 Operations & Maintenance</h3>
+<h5 align="left">🚀 Operations & Maintenance</h5>
 
 ###
 
@@ -84,7 +85,7 @@
 
 ###
 
-<h3 align="left">🛠️ Development Tool</h3>
+<h5 align="left">🛠️ Development Tool</h5>
 
 ###
 
@@ -100,7 +101,7 @@
 
 ###
 
-<h3 align="left">🎮 Game Engine</h3>
+<h5 align="left">🎮 Game Engine</h5>
 
 ###
 
@@ -109,7 +110,7 @@
   <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/egret/egret-original.svg" width="40" alt="egret" title="egret"  />
 </div>
 
-<h3 align="left">🧩 Extensions</h3>
+<h5 align="left">🧩 Extensions</h5>
 
 ###
 
