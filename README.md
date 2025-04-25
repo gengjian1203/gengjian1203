@@ -76,6 +76,10 @@
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon@master/icons/antdesign/antdesign-original.svg" width="40" alt="antdesign" title="antdesign" /> 
     &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon@master/icons/materialui/materialui-original.svg" width="40" alt="materialui" title="materialui" /> 
+    &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon@master/icons/apacheecharts/apacheecharts-original.svg" width="40" alt="apacheecharts" title="apacheecharts" /> 
+    &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon@master/icons/vitejs/vitejs-original.svg" width="40" alt="vitejs" title="vitejs" /> 
   </div>
 
 - ⚙️ Backend Development
@@ -119,7 +123,11 @@
     &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon@master/icons/eslint/eslint-original.svg" width="40" alt="eslint" title="eslint" /> 
     &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon@master/icons/stylelint/stylelint-original.svg" width="40" alt="stylelint" title="stylelint" /> 
+    &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon@master/icons/prettier/prettier-original.svg" width="40" alt="prettier" title="prettier" /> 
+    &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon@master/icons/postcss/postcss-original.svg" width="40" alt="postcss" title="postcss" /> 
     &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon@master/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="tailwindcss" title="tailwindcss" /> 
     &nbsp;
