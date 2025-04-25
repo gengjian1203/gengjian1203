@@ -23,10 +23,10 @@
         <li>👯 I'm looking to collaborate on <a href="https://orz2.online/">Xshuliner</a></li>
         <li>📫 How to reach me <strong>gengjian1203@foxmail.com</strong></li>
       </ul>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gengjian1203&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" width="100%" alt="languages graph" />
     </td>
     <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=gengjian1203&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" width="100%" alt="stats graph" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gengjian1203&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" width="100%" alt="languages graph" />
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=gengjian1203&radius=16&theme=react&area=true&order=5" width="100%" alt="activity-graph graph" />
     </td>
   </tr>
@@ -97,15 +97,7 @@
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/vscodeextensions/vscodeextensions-original.svg" width="40" alt="vscodeextensions" title="vscodeextensions" /> &nbsp;
   </div>
 
-### 🔥 My Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gengjian1203&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="166" alt="languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=gengjian1203&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="166" alt="stats graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gengjian1203&radius=16&theme=react&area=true&order=5" height="253" alt="activity-graph graph" />
-</div>
-
-######
+### 
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/gengjian1203/count.svg" alt="profile counter" />
