@@ -40,7 +40,7 @@
 
 ### 💡 Skills & Tools
 
-- 💻 Frontend Development
+- **💻 Frontend Development**
 
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon@master/icons/html5/html5-original-wordmark.svg" width="40" alt="html5" title="html5" /> 
@@ -82,7 +82,7 @@
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon@master/icons/vitejs/vitejs-original.svg" width="40" alt="vitejs" title="vitejs" /> 
   </div>
 
-- ⚙️ Backend Development
+- **⚙️ Backend Development**
 
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon@master/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="nodejs" title="nodejs" /> 
@@ -92,7 +92,7 @@
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon@master/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="mongodb" title="mongodb" /> 
   </div>
 
-- 🚀 Operations & Maintenance
+- **🚀 Operations & Maintenance**
 
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon@master/icons/ubuntu/ubuntu-icon-original.svg" width="40" alt="ubuntu" title="ubuntu" /> 
@@ -110,7 +110,7 @@
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon@master/icons/cloudflareworkers/cloudflareworkers-original-wordmark.svg" width="40" alt="cloudflareworkers" title="cloudflareworkers" /> 
   </div>
 
-- 🛠️ Development Tool
+- **🛠️ Development Tool**
 
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon@master/icons/vscode/vscode-original.svg" width="40" alt="vscode" title="vscode" /> 
@@ -142,7 +142,7 @@
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon@master/icons/photoshop/photoshop-original.svg" width="40" alt="photoshop" title="photoshop" /> 
   </div>
 
-- 🎮 Game Engine
+- **🎮 Game Engine**
 
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon@master/icons/cocos/cocos-original.svg" width="40" alt="cocos" title="cocos" /> 
@@ -150,7 +150,7 @@
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon@master/icons/egret/egret-original.svg" width="40" alt="egret" title="egret" /> 
   </div>
 
-- 🧩 Extensions
+- **🧩 Extensions**
 
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon@master/icons/chromeextensions/chromeextensions-original.svg" width="40" alt="chromeextensions" title="chromeextensions" /> 
