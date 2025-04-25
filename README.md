@@ -28,102 +28,94 @@
 
 - 📫 How to reach me **gengjian1203@foxmail.com**
 
-<!-- - 🚀 - 🎨 - 🌈 - 💬 -->
-
 ###
 
-<h3 align="left">💡 Skills & Tools</h3>
-
-###
-
-###
-
-<h3 align="left">🛠 Frontend Development</h3>
+<h3 align="left">💻 Frontend Development</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/html5/html5-original-wordmark.svg" width="40" alt="html5"  />
-  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/css3/css3-original-wordmark.svg" width="40" alt="css3"  />
-  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/javascript/javascript-original.svg" width="40" alt="javascript"  />
-  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/typescript/typescript-original.svg" width="40" alt="typescript"  />
+  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/html5/html5-original-wordmark.svg" width="40" alt="html5" title="html5"  />
+  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/css3/css3-original-wordmark.svg" width="40" alt="css3" title="css3"  />
+  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/javascript/javascript-original.svg" width="40" alt="javascript" title="javascript"  />
+  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/typescript/typescript-original.svg" width="40" alt="typescript" title="typescript"  />
 
-  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="40" alt="vuejs"  />
-  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/react/react-original-wordmark.svg" width="40" alt="react"  />
-  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/angular/angular-original.svg" width="40" alt="angular"  />
-  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" alt="nextjs"  />
-  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/taro/taro-original.svg" width="40" alt="taro"  />
-  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/wepy/wepy-original.svg" width="40" alt="wepy"  />
-  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/weapp/weapp-original.svg" width="40" alt="weapp"  />
+  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="40" alt="vuejs" title="vuejs"  />
+  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/react/react-original-wordmark.svg" width="40" alt="react" title="react"  />
+  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/angular/angular-original.svg" width="40" alt="angular" title="angular"  />
+  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" alt="nextjs" title="nextjs"  />
+  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/taro/taro-original.svg" width="40" alt="taro" title="taro"  />
+  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/wepy/wepy-original.svg" width="40" alt="wepy" title="wepy"  />
+  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/weapp/weapp-original.svg" width="40" alt="weapp" title="weapp"  />
 
-  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/less/less-plain-wordmark.svg" width="40" alt="less"  />
-  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/sass/sass-original.svg" width="40" alt="sass"  />
-  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/stylus/stylus-original.svg" width="40" alt="stylus"  />
+  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/less/less-plain-wordmark.svg" width="40" alt="less" title="less"  />
+  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/sass/sass-original.svg" width="40" alt="sass" title="sass"  />
+  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/stylus/stylus-original.svg" width="40" alt="stylus" title="stylus"  />
 </div>
 
 ###
 
-<h3 align="left">🛠 Backend Development</h3>
+<h3 align="left">⚙️ Backend Development</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="nodejs" />
-  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/express/express-original-wordmark.svg" width="40" alt="express" />
-  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="mongodb"  />
-  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/eslint/eslint-line-wordmark.svg" width="40" alt="eslint"  />
-  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" alt="tailwindcss"  />
-  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/npm/npm-original-wordmark.svg" width="40" alt="npm"  />
+  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="nodejs" title="nodejs" />
+  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/express/express-original-wordmark.svg" width="40" alt="express" title="express" />
+  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="mongodb" title="mongodb"  />
+  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/eslint/eslint-line-wordmark.svg" width="40" alt="eslint" title="eslint"  />
+  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" alt="tailwindcss" title="tailwindcss"  />
+  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/npm/npm-original-wordmark.svg" width="40" alt="npm" title="npm"  />
 </div>
 
 ###
 
-<h3 align="left">🛠 Operations & Maintenance</h3>
+<h3 align="left">🚀 Operations & Maintenance</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/nginx/nginx-original.svg" width="40" alt="nginx"  />
-  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/docker/docker-original-wordmark.svg" width="40" alt="docker"  />
-  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/aliyun/aliyun-original.svg" width="40" alt="aliyun"  />
-  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/cloudflare/cloudflare-original-wordmark.svg" width="40" alt="cloudflare"  />
-  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/cloudflareworkers/cloudflareworkers-original-wordmark.svg" width="40" alt="cloudflareworkers"  />
+  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/nginx/nginx-original.svg" width="40" alt="nginx" title="nginx"  />
+  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/docker/docker-original-wordmark.svg" width="40" alt="docker" title="docker"  />
+  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/aliyun/aliyun-original.svg" width="40" alt="aliyun" title="aliyun"  />
+  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/cloudflare/cloudflare-original-wordmark.svg" width="40" alt="cloudflare" title="cloudflare"  />
+  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/cloudflareworkers/cloudflareworkers-original-wordmark.svg" width="40" alt="cloudflareworkers" title="cloudflareworkers"  />
 </div>
 
 ###
 
-<h3 align="left">🛠 Development Tool</h3>
+<h3 align="left">🛠️ Development Tool</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/vscode/vscode-original.svg" width="40" alt="vscode"  />
-  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/cursor/cursor-original.svg" width="40" alt="cursor"  />
-  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/eslint/eslint-original.svg" width="40" alt="eslint"  />
-  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/prettier/prettier-original.svg" width="40" alt="prettier"  />
-  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="tailwindcss"  />
-  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/npm/npm-original-wordmark.svg" width="40" alt="npm"  />
-  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/yarn/yarn-original-wordmark.svg" width="40" alt="yarn"  />
+  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/vscode/vscode-original.svg" width="40" alt="vscode" title="vscode"  />
+  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/cursor/cursor-original.svg" width="40" alt="cursor" title="cursor"  />
+  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/eslint/eslint-original.svg" width="40" alt="eslint" title="eslint"  />
+  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/prettier/prettier-original.svg" width="40" alt="prettier" title="prettier"  />
+  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="tailwindcss" title="tailwindcss"  />
+  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/npm/npm-original-wordmark.svg" width="40" alt="npm" title="npm"  />
+  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/yarn/yarn-original-wordmark.svg" width="40" alt="yarn" title="yarn"  />
 </div>
 
 ###
 
-<h3 align="left">🛠 Game Engine</h3>
+<h3 align="left">🎮 Game Engine</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/cocos/cocos-original.svg" width="40" alt="cocos"  />
-  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/egret/egret-original.svg" width="40" alt="egret"  />
+  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/cocos/cocos-original.svg" width="40" alt="cocos" title="cocos"  />
+  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/egret/egret-original.svg" width="40" alt="egret" title="egret"  />
 </div>
 
-<h3 align="left">🛠 Extensions</h3>
+<h3 align="left">🧩 Extensions</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/chromeextensions/chromeextensions-original.svg" width="40" alt="chromeextensions"  />
-  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/vscodeextensions/vscodeextensions-original.svg" width="40" alt="vscodeextensions"  />
+  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/chromeextensions/chromeextensions-original.svg" width="40" alt="chromeextensions" title="chromeextensions"  />
+  <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/vscodeextensions/vscodeextensions-original.svg" width="40" alt="vscodeextensions" title="vscodeextensions"  />
 </div>
 
 <h3 align="left">🔥 My Stats :</h3>
