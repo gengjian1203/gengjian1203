@@ -12,7 +12,7 @@
   </a>
 </div>
 
-### 👩‍💻 About Me
+### 🌟 About Me
 
 - 👨‍💻 A simple frontend developer.
 
