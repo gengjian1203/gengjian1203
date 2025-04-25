@@ -45,8 +45,6 @@
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/stylus/stylus-original.svg" width="40" alt="stylus" title="stylus"  />
   </div>
 
-######
-
 - ⚙️ Backend Development
 
   <div align="left">
@@ -54,8 +52,6 @@
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/express/express-original-wordmark.svg" width="40" alt="express" title="express" />
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="mongodb" title="mongodb"  />
   </div>
-
-######
 
 - 🚀 Operations & Maintenance
 
@@ -66,8 +62,6 @@
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/cloudflare/cloudflare-original-wordmark.svg" width="40" alt="cloudflare" title="cloudflare"  />
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/cloudflareworkers/cloudflareworkers-original-wordmark.svg" width="40" alt="cloudflareworkers" title="cloudflareworkers"  />
   </div>
-
-######
 
 - 🛠️ Development Tool
 
@@ -81,16 +75,12 @@
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/yarn/yarn-original-wordmark.svg" width="40" alt="yarn" title="yarn"  />
   </div>
 
-######
-
 - 🎮 Game Engine
 
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/cocos/cocos-original.svg" width="40" alt="cocos" title="cocos"  />
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/egret/egret-original.svg" width="40" alt="egret" title="egret"  />
   </div>
-
-######
 
 - 🧩 Extensions
 
@@ -112,5 +102,3 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/gengjian1203/count.svg" alt="profile counter" />
 </div>
-
-######
