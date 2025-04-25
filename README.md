@@ -22,15 +22,15 @@
 
 - 📫 How to reach me **gengjian1203@foxmail.com**
 
-<table width="100%" border="0">
+<table width="100%" style="border: none;">
   <tr>
-    <td width="33%">
+    <td width="33%" style="border: none; vertical-align: top;">
       <img src="https://github-readme-stats.vercel.app/api?username=gengjian1203&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" width="100%" alt="stats graph" />
     </td>
-    <td width="33%">
+    <td width="33%" style="border: none; vertical-align: top;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gengjian1203&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" width="100%" alt="languages graph" />
     </td>
-    <td width="33%">
+    <td width="33%" style="border: none; vertical-align: top;">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=gengjian1203&radius=16&theme=react&area=true&order=5" width="100%" alt="activity-graph graph" />
     </td>
   </tr>
