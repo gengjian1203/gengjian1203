@@ -1,6 +1,4 @@
-<h1 align="left">Hi 👋, I'm Hugh Geng</h1>
-
-###
+# Hi 👋, I'm Hugh Geng
 
 <div align="center">
   <a href="https://www.orz2.online/projects/gengjian1203/" target="_blank">
@@ -14,11 +12,7 @@
   </a>
 </div>
 
-###
-
-<h3 align="left">👩‍💻 About Me</h3>
-
-###
+### 👩‍💻 About Me
 
 - 👨‍💻 A passionate frontend developer
 
@@ -28,17 +22,11 @@
 
 - 📫 How to reach me **gengjian1203@foxmail.com**
 
-###
+### 💡 Skills & Tools
 
-<h3 align="left">💡 Skills & Tools</h3>
+- 💻 Frontend Development
 
-###
-
-<h5 align="left">💻 Frontend Development</h5>
-
-###
-
-<div align="left">
+<div align="left" stlye="padding-left: 10px">
   <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/html5/html5-original-wordmark.svg" width="40" alt="html5" title="html5"  />
   <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/css3/css3-original-wordmark.svg" width="40" alt="css3" title="css3"  />
   <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/javascript/javascript-original.svg" width="40" alt="javascript" title="javascript"  />
@@ -59,11 +47,9 @@
 
 ###
 
-<h5 align="left">⚙️ Backend Development</h5>
+- ⚙️ Backend Development
 
-###
-
-<div align="left">
+<div align="left" stlye="padding-left: 10px">
   <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="nodejs" title="nodejs" />
   <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/express/express-original-wordmark.svg" width="40" alt="express" title="express" />
   <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="mongodb" title="mongodb"  />
@@ -71,11 +57,9 @@
 
 ###
 
-<h5 align="left">🚀 Operations & Maintenance</h5>
+- 🚀 Operations & Maintenance
 
-###
-
-<div align="left">
+<div align="left" stlye="padding-left: 10px">
   <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/nginx/nginx-original.svg" width="40" alt="nginx" title="nginx"  />
   <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/docker/docker-original-wordmark.svg" width="40" alt="docker" title="docker"  />
   <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/aliyun/aliyun-original.svg" width="40" alt="aliyun" title="aliyun"  />
@@ -85,11 +69,9 @@
 
 ###
 
-<h5 align="left">🛠️ Development Tool</h5>
+- 🛠️ Development Tool
 
-###
-
-<div align="left">
+<div align="left" stlye="padding-left: 10px">
   <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/vscode/vscode-original.svg" width="40" alt="vscode" title="vscode"  />
   <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/cursor/cursor-original.svg" width="40" alt="cursor" title="cursor"  />
   <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/eslint/eslint-original.svg" width="40" alt="eslint" title="eslint"  />
@@ -101,32 +83,25 @@
 
 ###
 
-<h5 align="left">🎮 Game Engine</h5>
+- 🎮 Game Engine
 
-###
-
-<div align="left">
+<div align="left" stlye="padding-left: 10px">
   <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/cocos/cocos-original.svg" width="40" alt="cocos" title="cocos"  />
   <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/egret/egret-original.svg" width="40" alt="egret" title="egret"  />
 </div>
 
-<h5 align="left">🧩 Extensions</h5>
+- 🧩 Extensions
 
-###
-
-<div align="left">
+<div align="left" stlye="padding-left: 10px">
   <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/chromeextensions/chromeextensions-original.svg" width="40" alt="chromeextensions" title="chromeextensions"  />
   <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/vscodeextensions/vscodeextensions-original.svg" width="40" alt="vscodeextensions" title="vscodeextensions"  />
 </div>
 
 <h3 align="left">🔥 My Stats :</h3>
 
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gengjian1203&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="166" alt="languages graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=gengjian1203&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="166" alt="stats graph" />
-  <!-- <img src="https://streak-stats.demolab.com?user=gengjian1203&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="140" alt="streak graph" /> -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gengjian1203&radius=16&theme=react&area=true&order=5" height="254" alt="activity-graph graph" />
 </div>
 
