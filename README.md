@@ -129,10 +129,9 @@
     &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon@master/icons/pnpm/pnpm-original-wordmark.svg" width="40" alt="pnpm" title="pnpm" /> 
     &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon@master/icons/photoshop/photoshop-original.svg" width="40" alt="photoshop" title="photoshop" /> 
-    &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon@master/icons/postman/postman-original.svg" width="40" alt="postman" title="postman" /> 
     &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon@master/icons/photoshop/photoshop-original.svg" width="40" alt="photoshop" title="photoshop" /> 
   </div>
 
 - 🎮 Game Engine
