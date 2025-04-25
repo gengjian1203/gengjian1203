@@ -31,7 +31,6 @@
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/css3/css3-original-wordmark.svg" width="40" alt="css3" title="css3" /> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/javascript/javascript-original.svg" width="40" alt="javascript" title="javascript" /> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/typescript/typescript-original.svg" width="40" alt="typescript" title="typescript" /> &nbsp;
-
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="40" alt="vuejs" title="vuejs" /> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/react/react-original-wordmark.svg" width="40" alt="react" title="react" /> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/angular/angular-original.svg" width="40" alt="angular" title="angular" /> &nbsp;
@@ -39,7 +38,6 @@
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/taro/taro-original.svg" width="40" alt="taro" title="taro" /> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/wepy/wepy-original.svg" width="40" alt="wepy" title="wepy" /> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/weapp/weapp-original.svg" width="40" alt="weapp" title="weapp" /> &nbsp;
-
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/less/less-plain-wordmark.svg" width="40" alt="less" title="less" /> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/sass/sass-original.svg" width="40" alt="sass" title="sass" /> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon/icons/stylus/stylus-original.svg" width="40" alt="stylus" title="stylus" /> &nbsp;
