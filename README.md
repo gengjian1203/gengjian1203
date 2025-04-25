@@ -58,6 +58,7 @@
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon@master/icons/sass/sass-original.svg" width="40" alt="sass" title="sass" /> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon@master/icons/stylus/stylus-original.svg" width="40" alt="stylus" title="stylus" /> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon@master/icons/antdesign/antdesign-original.svg" width="40" alt="antdesign" title="antdesign" /> &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon@master/icons/materialui/materialui-original.svg" width="40" alt="materialui" title="materialui" /> &nbsp;
   </div>
 
 - ⚙️ Backend Development
@@ -71,8 +72,10 @@
 - 🚀 Operations & Maintenance
 
   <div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon@master/icons/ubuntu/ubuntu-icon-original.svg" width="40" alt="ubuntu" title="ubuntu" /> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon@master/icons/nginx/nginx-original.svg" width="40" alt="nginx" title="nginx" /> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon@master/icons/docker/docker-original-wordmark.svg" width="40" alt="docker" title="docker" /> &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon@master/icons/vim/vim-original.svg" width="40" alt="vim" title="vim" /> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon@master/icons/aliyun/aliyun-original.svg" width="40" alt="aliyun" title="aliyun" /> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon@master/icons/cloudflare/cloudflare-original-wordmark.svg" width="40" alt="cloudflare" title="cloudflare" /> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon@master/icons/cloudflareworkers/cloudflareworkers-original-wordmark.svg" width="40" alt="cloudflareworkers" title="cloudflareworkers" /> &nbsp;
@@ -83,6 +86,7 @@
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon@master/icons/vscode/vscode-original.svg" width="40" alt="vscode" title="vscode" /> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon@master/icons/cursor/cursor-original.svg" width="40" alt="cursor" title="cursor" /> &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon@master/icons/webstorm/webstorm-original.svg" width="40" alt="webstorm" title="webstorm" /> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon@master/icons/weappdevtool/weappdevtool-original.svg" width="40" alt="weappdevtool" title="weappdevtool" /> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon@master/icons/eslint/eslint-original.svg" width="40" alt="eslint" title="eslint" /> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon@master/icons/prettier/prettier-original.svg" width="40" alt="prettier" title="prettier" /> &nbsp;
