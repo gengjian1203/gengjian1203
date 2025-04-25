@@ -61,6 +61,8 @@
     &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon@master/icons/taro/taro-original.svg" width="40" alt="taro" title="taro" /> 
     &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon@master/icons/uniapp/uniapp-original.svg" width="40" alt="uniapp" title="uniapp" /> 
+    &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon@master/icons/wepy/wepy-original.svg" width="40" alt="wepy" title="wepy" /> 
     &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/devicon@master/icons/weapp/weapp-original.svg" width="40" alt="weapp" title="weapp" /> 
