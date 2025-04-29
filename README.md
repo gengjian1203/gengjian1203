@@ -137,6 +137,8 @@
     &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/oss@master/Icons/pnpm/pnpm-original-wordmark.svg" width="40" alt="pnpm" title="pnpm" /> 
     &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/gengjian1203/oss@master/Icons/navicat/navicat-original.svg" width="40" alt="navicat" title="navicat" /> 
+    &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/oss@master/Icons/postman/postman-original.svg" width="40" alt="postman" title="postman" /> 
     &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/oss@master/Icons/photoshop/photoshop-original.svg" width="40" alt="photoshop" title="photoshop" /> 
