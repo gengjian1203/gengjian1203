@@ -1,13 +1,13 @@
 # Hi 👋, I'm Hugh Geng
 
 <div align="center">
-  <a href="https://www.xshuliner.online/portal/gengjian1203/" target="_blank">
+  <a href="https://www.xshuliner.online/portal/gengjian1203/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Blog-v2.0.0-blue.svg" alt="blog"  />
   </a>
-  <a href="https://www.xshuliner.online/" target="_blank">
+  <a href="https://www.xshuliner.online/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Website-Xshuliner-green.svg" alt="website"  />
   </a>
-  <a href="mailto:agjgj187076081@gmail.com" target="_blank">
+  <a href="mailto:agjgj187076081@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail"  />
   </a>
 </div>
@@ -16,9 +16,9 @@
 
 - 👨‍💻 A simple frontend developer.
 
-- 📝 I regularly write articles on [Blog](https://orz2.online/projects/gengjian1203/).
+- 📝 I regularly write articles on [Blog](https://www.xshuliner.online/portal/gengjian1203/).
 
-- 👯 I'm looking to collaborate on [Xshuliner](https://orz2.online/).
+🌱 I’m currently learning on [Xshuliner](https://www.xshuliner.online/).
 
 - 📫 How to reach me [gengjian1203@foxmail.com](mailto:gengjian1203@foxmail.com).
 
@@ -142,6 +142,10 @@
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/oss@master/Icons/postman/postman-original.svg" width="40" alt="postman" title="postman" /> 
     &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/oss@master/Icons/photoshop/photoshop-original.svg" width="40" alt="photoshop" title="photoshop" /> 
+    &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/gengjian1203/oss@master/Icons/iconfont/iconfont-original.svg" width="40" alt="iconfont" title="iconfont" /> 
+    &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/gengjian1203/oss@master/Icons/tinypng/tinypng-original.svg" width="40" alt="tinypng" title="tinypng" /> 
   </div>
 
 - **🎮 Game Engine**
