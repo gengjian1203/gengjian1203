@@ -1,10 +1,10 @@
 # Hi 👋, I'm Hugh Geng
 
 <div align="center">
-  <a href="https://www.orz2.online/projects/gengjian1203/" target="_blank">
+  <a href="https://www.xshuliner.online/portal/gengjian1203/" target="_blank">
     <img src="https://img.shields.io/badge/Blog-v2.0.0-blue.svg" alt="blog"  />
   </a>
-  <a href="https://orz2.online/" target="_blank">
+  <a href="https://www.xshuliner.online/" target="_blank">
     <img src="https://img.shields.io/badge/Website-Xshuliner-green.svg" alt="website"  />
   </a>
   <a href="mailto:agjgj187076081@gmail.com" target="_blank">
