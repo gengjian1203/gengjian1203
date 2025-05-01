@@ -131,6 +131,8 @@
     &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/oss@master/Icons/tailwindcss/tailwindcss-original.svg" width="40" alt="tailwindcss" title="tailwindcss" /> 
     &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/gengjian1203/oss@master/Icons/rollup/rollup-original.svg" width="40" alt="rollup" title="rollup" /> 
+    &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/oss@master/Icons/npm/npm-original-wordmark.svg" width="40" alt="npm" title="npm" /> 
     &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/oss@master/Icons/yarn/yarn-original-wordmark.svg" width="40" alt="yarn" title="yarn" /> 
