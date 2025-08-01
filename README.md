@@ -80,6 +80,8 @@
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/oss@master/Icon/apacheecharts/apacheecharts-original.svg" width="40" alt="apacheecharts" title="apacheecharts" /> 
     &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/oss@master/Icon/vitejs/vitejs-original.svg" width="40" alt="vitejs" title="vitejs" /> 
+    &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/gengjian1203/oss@master/Icon/wujie/wujie-original.svg" width="40" alt="wujie" title="wujie" /> 
   </div>
 
 - **⚙️ Backend Development**
@@ -108,6 +110,8 @@
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/oss@master/Icon/cloudflare/cloudflare-original-wordmark.svg" width="40" alt="cloudflare" title="cloudflare" /> 
     &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/oss@master/Icon/cloudflareworkers/cloudflareworkers-original-wordmark.svg" width="40" alt="cloudflareworkers" title="cloudflareworkers" /> 
+    &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/gengjian1203/oss@master/Icon/githubaction/githubaction-original.svg" width="40" alt="githubaction" title="githubaction" /> 
   </div>
 
 - **🛠️ Development Tool**
