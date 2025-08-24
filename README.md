@@ -67,6 +67,8 @@
     &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/oss@master/Icon/weapp/weapp-original.svg" width="40" alt="weapp" title="weapp" /> 
     &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/gengjian1203/oss@master/Icon/electron/electron-original.svg" width="40" alt="electron" title="electron" /> 
+    &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/oss@master/Icon/less/less-plain-wordmark.svg" width="40" alt="less" title="less" /> 
     &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/gengjian1203/oss@master/Icon/sass/sass-original.svg" width="40" alt="sass" title="sass" /> 
