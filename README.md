@@ -16,7 +16,7 @@
 
 - 👨‍💻 A simple frontend developer.
 
-- 📝 I regularly write articles on [Blog](https://www.xshuliner.online/portal/gengjian1203/).
+- 📝 I regularly write articles on [blog](https://www.xshuliner.online/portal/gengjian1203/).
 
 - 🌱 I am maintaining the organization [xshuliner](https://github.com/xshuliner/).
 
