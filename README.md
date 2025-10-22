@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on [Blog](https://www.xshuliner.online/portal/gengjian1203/).
 
-- 🌱 I’m currently learning on [Xshuliner](https://www.xshuliner.online/).
+- 🌱 I am maintaining the organization [xshuliner](https://github.com/xshuliner/).
 
 - 📫 How to reach me [gengjian1203@foxmail.com](mailto:gengjian1203@foxmail.com).
 
